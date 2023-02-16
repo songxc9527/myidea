@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://n828v79964sf.ngrok.xiaomiqiu123.top/static/eys.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/c2/a1/10c2a12c-3037-d77b-ce93-ae1b38c4a1ff/AppIcon-1x_U007emarketing-0-7-0-85-220.png/114x114bb.jpg</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.Gaggle.fun.GooseGooseDuck</string>
+                <key>bundle-version</key>
+                <string>2.17.01</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Goose Goose Duck</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
+
