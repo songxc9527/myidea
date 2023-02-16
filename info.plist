@@ -18,13 +18,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.song</string>
+                <string>com.jnzc.recipebook</string>
                 <key>bundle-version</key>
-                <string>5.5.6</string>
+                <string>5.3.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>caipu</string>
+                <string>菜谱大全</string>
             </dict>
         </dict>
     </array>
