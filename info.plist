@@ -14,6 +14,12 @@
                     <key>url</key>
                     <string>https://n828v79964sf.ngrok.xiaomiqiu123.top/static/CaiPuDaQuan5.3.5.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/63/56/5f63567d-b547-2a54-8260-a1b06d31ea79/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
