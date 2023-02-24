@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.songxc.top/fr/frcategories/</loc>
+  </url><url>
+    <loc>https://blog.songxc.top/fr/frseries/</loc>
+  </url><url>
+    <loc>https://blog.songxc.top/fr/frtags/</loc>
+  </url><url>
+    <loc>https://blog.songxc.top/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.songxc.top/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://blog.songxc.top/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.songxc.top/fr/"
+                />
+  </url>
+</urlset>

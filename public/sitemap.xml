@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://blog.songxc.top/categories/</loc>
-  </url><url>
-    <loc>https://blog.songxc.top/</loc>
-  </url><url>
-    <loc>https://blog.songxc.top/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://blog.songxc.top/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://blog.songxc.top/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://blog.songxc.top/fa/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
